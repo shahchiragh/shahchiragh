@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @shahchiragh (Shah, Chirag H)
-- 👀 I do Software and Web Development, Machine Learning, Internet of Things (IoT), Machine 2 Machine communications and Data Analytics. 
-- 🌱 I love working on cool projects that can be open sourced. Currently, work with the U.S. Geological Survey (USGS) and U.S. Department of Energy (DOE) Atmoshperic Radiation Measurement (ARM) Data Center group. 
-- 💞️ I’m looking to collaborate on any open source projects including software or web development, AI/ML and Big Data. 
-- 📫 You can reach me at my Email: chiragshah003@gmail.com or LinkedIn: https://www.linkedin.com/in/shahchiragh or visit my staff-profile at: https://www.ornl.gov/staff-profile/chirag-h-shah
+- 👀 I specialize in Software & Web Development, Machine Learning, Internet of Things (IoT), Machine-to-Machine (M2M) communications, and Data Analytics—especially in scientific and environmental data systems.
+- 🌱 I’m passionate about building impactful, open-source projects that solve real-world problems. Currently, I work with the U.S. Geological Survey (USGS) and the U.S. Department of Energy’s Atmospheric Radiation Measurement (ARM) Data Center.
+- 🌍 My work focuses on making complex data accessible—developing scalable platforms, modernizing legacy systems, and integrating data from instruments, simulations, and field campaigns.
+- 💞️ I'm always open to collaborating on open-source projects in software/web development, environmental informatics, AI/ML, and big data infrastructure.
+- 📫 You can reach me via GitHub, or connect with me on [LinkedIn](https://www.linkedin.com/in/shahchiragh) to chat more about potential collaborations.
 
 <!---
 shahchiragh/shahchiragh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
